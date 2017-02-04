@@ -1,6 +1,5 @@
 pandas==0.19.0
 jupyter==1.0.0
 scikit-learn==0.18.1
-Twython-3.4.0
-simplejson-3.10.0
-
+twython
+simplejson
